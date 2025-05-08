@@ -28,16 +28,20 @@ Automated generation of SBA credit memos and commitment letters using VBA and Py
 ## Skills
 
 **Languages**  
-Python, SQL, VBA, HTML, CSS
+Python, SQL, VBA, HTML, CSS, JavaScript
 
 **ML and AI**  
-LangChain, OpenAI, Gemini, FAISS, Scikit-learn, NLP, OCR, Streamlit
+LangChain, OpenAI API, Gemini API, FAISS, PyTorch, Keras, Scikit-learn, Transformers (Hugging Face), SentenceTransformers, NLP, OCR, Streamlit
 
 **Data Tools**  
-Tableau, Pandas, NumPy
+Pandas, NumPy, Polars, PyArrow, PySpark, Seaborn, Matplotlib, Plotly, Tableau, Power BI, Advanced Excel
 
 **Cloud and Deployment**  
-Streamlit Cloud, Google Colab
+AWS, Streamlit Cloud, Docker, Hugging Face Spaces, Render
+
+**Big Data Technologies**  
+Apache Spark, Apache Kafka, Apache NiFi, MinIO
+
 
 ## Education
 
@@ -61,4 +65,7 @@ Scotland, UK
 
 ## Let's Connect
 
-Reach out via [email](mailto:thomasjmann23@gmail.com) or check out what I’m building here on GitHub.
+## Let's Connect
+
+Reach out via [email](mailto:thomasjmann23@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url), or check out what I’m building here on GitHub.
+
