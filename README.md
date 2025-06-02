@@ -65,7 +65,5 @@ Scotland, UK
 
 ## Let's Connect
 
-## Let's Connect
-
 Reach out via [email](mailto:thomasjmann23@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url), or check out what I’m building here on GitHub.
 
