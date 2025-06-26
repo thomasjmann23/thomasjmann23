@@ -29,7 +29,8 @@ Lead a team of interns to automate the generation of SBA credit memos and commit
 ## Skills
 
 **Languages**  
-Python, SQL, VBA, HTML, CSS, JavaScript, + Spanish
+Python, SQL, VBA, HTML, CSS, JavaScript 
+Spanish (B2), English (Native)
 
 **ML and AI**  
 LangChain, OpenAI API, Gemini API, FAISS, PyTorch, Keras, Scikit-learn, Transformers (Hugging Face), SentenceTransformers, NLP
