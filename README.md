@@ -13,7 +13,7 @@ My work bridges automation, machine learning, and financial systems. I have hand
 
 ## Featured Projects
 
-### [DeepDiligence: SEC RAG Insights] (https://deepdiligence.streamlit.app/)
+### [DeepDiligence: SEC RAG Insights](https://deepdiligence.streamlit.app/)
 A Streamlit app that extracts SEC 10-K filings and uses Gemini and LangChain to generate insights from key-value pairs. Built for competitive intelligence and financial analysis.  
 **Tech:** Python, LangChain, Gemini, FAISS, Streamlit, SEC EDGAR API, HTML/CSS
 
