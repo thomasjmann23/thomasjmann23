@@ -13,11 +13,11 @@ My work bridges automation, machine learning, and financial systems. I have hand
 
 ## Featured Projects
 
-### SEC RAG Insights  
+### [DeepDiligence: SEC RAG Insights] (https://deepdiligence.streamlit.app/)
 A Streamlit app that extracts SEC 10-K filings and uses Gemini and LangChain to generate insights from key-value pairs. Built for competitive intelligence and financial analysis.  
-**Tech:** Python, LangChain, Gemini, FAISS, Streamlit, SEC EDGAR API
+**Tech:** Python, LangChain, Gemini, FAISS, Streamlit, SEC EDGAR API, HTML/CSS
 
-### Legal Interpreter & RAG Engine
+### [Legal Interpreter](https://nlpproject-cbd6fd7gjgme7x5jwcltb5.streamlit.app/)
 An NLP application that allows users to ask legal questions in any language about any country.
 - Query Pipeline: Detects the input language and target country, translates the question into the target language, retrieves the top-matching sections from the country’s civil code using TF-IDF, summarizes results with Gemini, and translates the answer back to the original language.
 - Civil Code Ingestion: Uploads and processes civil code PDFs—parsing, chunking, and vectorizing them (TF-IDF) for accurate legal retrieval.
