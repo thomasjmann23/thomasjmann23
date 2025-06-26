@@ -8,7 +8,7 @@ My work bridges automation, machine learning, and financial systems. I have hand
 
 - Generative AI applications using LLMs  
 - Retrieval-Augmented Generation 
-- Building financial tools powered by NLP  
+- Using LLMs & NLP to make internal process decisions   
 - Continual learning in MLOps and large-scale model deployment  
 
 ## Featured Projects
